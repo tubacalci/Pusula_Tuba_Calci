@@ -48,7 +48,7 @@ To reproduce the analysis:
 
 1. **Clone this repository**
    ```bash
-   https://github.com/tubacalci/Pusula_Tuba_Calci.git
+   git clone https://github.com/tubacalci/Pusula_Tuba_Calci.git
    cd Pusula_Tuba_Calci
    ```
 2. **Install dependencies**
@@ -63,3 +63,13 @@ To reproduce the analysis:
 
 4. **Open the PDF Report**
    Check Case Study - Tuba Çalcı.pdf for a summary of findings and insights.
+
+   --
+
+   ## 🔑 Key Insights
+   - TedaviSuresi is mostly standardized at 15 sessions
+   - UygulamaSuresi clusters around 20 minutes
+   - High missingness in Alerji, KanGrubu, KronikHastalik columns
+   - No strong linear correlation detected with numerical features
+   - Gender, Department, Blood Type show only slight variations in treatment duration
+   - Final datasets: 1788 rows, 88 features (train) and 447 rows, 88 features (test)
