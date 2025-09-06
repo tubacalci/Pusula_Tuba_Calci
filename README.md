@@ -1,4 +1,3 @@
-# Pusula_Tuba_Calci
 Tuba Çalcı - tubacalci@hotmail.com
 
 # Data Science Intern Case Study
@@ -38,7 +37,8 @@ The **target variable** is:
 - `train_ready.csv`, `test_ready.csv` → Preprocessed train/test feature sets  
 - `y_train.csv`, `y_test.csv` → Target values for train/test  
 - `Case Study - Tuba Çalcı.pdf` → PDF report including findings, visualizations, and insights  
-- `README.md` → Project overview & usage instructions  
+- `requirements.txt` → Dependencies file  
+- `README.md` → Project overview & usage instructions 
 
 ---
 
