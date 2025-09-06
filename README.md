@@ -64,7 +64,7 @@ To reproduce the analysis:
 4. **Open the PDF Report**
    Check Case Study - Tuba Çalcı.pdf for a summary of findings and insights.
 
-   --
+ ---
 
    ## 🔑 Key Insights
    - TedaviSuresi is mostly standardized at 15 sessions
